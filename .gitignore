@@ -1,0 +1,10 @@
+node_modules/
+vendor/
+.env
+application/.env
+application/storage/logs/*.log
+application/storage/framework/cache/*
+application/storage/framework/sessions/*
+application/storage/framework/views/*
+.DS_Store
+Thumbs.db
